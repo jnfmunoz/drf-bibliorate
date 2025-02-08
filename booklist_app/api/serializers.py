@@ -16,4 +16,3 @@ class BookSerializer(serializers.ModelSerializer):
             raise serializers.ValidationError("Author and description cannot be the same.")
         else:
             return data
-    
