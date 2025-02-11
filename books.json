@@ -1,20 +1,26 @@
 [
     {
+        "id": 1,
         "title": "Crimen y Castigo",
         "author": "Fiodor Dostoyevski",
-        "editorial": "Plutón",
-        "synopsis": "La historia narra la vida de Rodión Raskólnikov, un estudiante en la capital de la Rusia Imperial, San Petersburgo, que se ve obligado a suspender sus estudios por la miseria en la que se encuentra, a pesar de los esfuerzos de su madre Pulqueria y su hermana Dunia para enviarle dinero."
+        "synopsis": "La historia narra la vida de Rodión Raskólnikov, un estudiante en la capital de la Rusia Imperial, San Petersburgo, que se ve obligado a suspender sus estudios por la miseria en la que se encuentra, a pesar de los esfuerzos de su madre Pulqueria y su hermana Dunia para enviarle dinero.",
+        "created": "2025-02-11T02:32:55.177642Z",
+        "editorial": 1
     },
     {
+        "id": 2,
         "title": "El doble",
         "author": "Fiodor Dostoyevski",
-        "editorial": "Andres Bello",
-        "synopsis": "La obra gira en torno a la vida de un funcionario del Estado ruso, Yákov Petróvich Goliadkin, cuando al ser rechazado en una comida que ofrecía su jefe por el cumpleaños de su hija, su personalidad se «parte» llevando adelante una despiadada lucha interna que enfrenta a un (super) Goliadkin con la realidad (el Goliadkin de carne y hueso)."
+        "synopsis": "La obra gira en torno a la vida de un funcionario del Estado ruso, Yákov Petróvich Goliadkin, cuando al ser rechazado en una comida que ofrecía su jefe por el cumpleaños de su hija, su personalidad se «parte» llevando adelante una despiadada lucha interna que enfrenta a un (super) Goliadkin con la realidad (el Goliadkin de carne y hueso).",
+        "created": "2025-02-11T02:36:04.444993Z",
+        "editorial": 2
     },
     {
+        "id": 3,
         "title": "Fausto",
         "author": "Johan W. Goethe",
-        "editorial": "Plutón",
-        "synopsis": "A través de una excelente y entretenida adaptación se introduce al lector en la historia de Fausto, el hombre que vende su alma al diablo para conocer los secretos de la naturaleza y poseer toda clase de bienes terrenales."
+        "synopsis": "A través de una excelente y entretenida adaptación se introduce al lector en la historia de Fausto, el hombre que vende su alma al diablo para conocer los secretos de la naturaleza y poseer toda clase de bienes terrenales.",
+        "created": "2025-02-11T02:46:02.089751Z",
+        "editorial": 2
     }
 ]
